@@ -14,13 +14,13 @@
   <div class="text-2xl bg-[#0CC553] w-fit rounded-3xl text-[#FFFFFF] px-3 mt-5 ml-5 time p-2"><span class="text-[#C8FFD4]">ช่วงที่ 1</span> &nbsp;เวลา 13:00 ถึง 19:00 น. </div><br>
   <div class=" ml-5 space-y-4 text-[#262E3F]">
   <div class="text-3xl flex  ">
-        <img src="../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">PDPA ในโรงพยาบาล ความท้าทายใหม่หลังการบังคับใช้ พ.ร.บ.คุ้มครองข้อมูลส่วนบุคคล</h3>
+        <img src="../../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">PDPA ในโรงพยาบาล ความท้าทายใหม่หลังการบังคับใช้ พ.ร.บ.คุ้มครองข้อมูลส่วนบุคคล</h3>
       </div>
       <div class="text-3xl flex ">
-        <img src="../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Improving Cyber resilience with AI & Automation</h3>
+        <img src="../../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Improving Cyber resilience with AI & Automation</h3>
       </div>
       <div class="text-3xl flex ">
-        <img src="../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Lenovo Intelligent Infrastructure to enable Smart Healthcare</h3>
+        <img src="../../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Lenovo Intelligent Infrastructure to enable Smart Healthcare</h3>
       </div>
     </div>
 </div>
@@ -29,13 +29,13 @@
   <div class="text-2xl bg-[#0CC553] w-fit rounded-3xl text-[#FFFFFF] px-3 mt-5 ml-5 time p-2"><span class="text-[#C8FFD4]">ช่วงที่ 2</span> &nbsp;เวลา 13:00 ถึง 19:00 น. </div><br>
   <div class="text ml-5 space-y-4 text-[#262E3F]">
   <div class="text-3xl flex  ">
-        <img src="../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Enhance customer experience for Healthcare with digital technologies</h3>
+        <img src="../../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Enhance customer experience for Healthcare with digital technologies</h3>
       </div>
       <div class="text-3xl flex ">
-        <img src="../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Holistic IoT & AI for Healthcare, Telemedicine and Medical Service Platform</h3>
+        <img src="../../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Holistic IoT & AI for Healthcare, Telemedicine and Medical Service Platform</h3>
       </div>
       <div class="text-3xl flex ">
-        <img src="../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Empowering Health Tech solution with AI diagnosis</h3>
+        <img src="../../IMG/resorce/bullet.png" class="h-fit w-fit mt-3 mr-4"><h3 class="text">Empowering Health Tech solution with AI diagnosis</h3>
       </div>
     </div>
 </div>

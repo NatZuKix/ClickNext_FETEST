@@ -8,11 +8,10 @@
         <br><span class="text-[#262E3F] head3">หมายเหตุ : สัมมนา Exclusive สำหรับกลุ่มโรงพยาบาล และสาธารณะสุข</span></h1>
         <div class="w-full flex items-center justify-center">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf-Px9QA76gCH1byd_sV1aTEsOJkd_bGDPHt8_tqhDKBhGMw/viewform" 
-        target="_blank" class=" w-1/4 h-12 bg-gradient-to-b from-[#0BB64C] to-[#27D96B] rounded-xl mt-3 text-2xl 
-         font-noto text-white text-center flex justify-center items-center">
+        target="_blank" class=" w-1/4 h-12 bg-gradient-to-b from-[#0BB64C] to-[#27D96B] rounded-xl mt-3 text-2xl font-noto text-white text-center flex justify-center items-center">
         ลงทะเบียน
         </a>
-      </div>
+        </div>
       </div>
     </div>
 </template>
