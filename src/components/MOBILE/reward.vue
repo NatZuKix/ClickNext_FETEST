@@ -6,7 +6,7 @@
      <div class="bg-gradient-to-b from-[#FFFFFF] via-[#e6d9d9] to-[#34EA67] w-full h-96 p-1 rounded-2xl">
      <div class="bg-white  w-full h-full rounded-2xl">
       <div class=" h-full flex flex-col justify-center   ">
-        <div class="ml-12 bg-gradient-to-r from-[#0E044B] to-[#89E8FD] text-transparent bg-clip-text mt-8">
+        <div class="ml-6 bg-gradient-to-r from-[#0E044B] to-[#89E8FD] text-transparent bg-clip-text mt-3">
         <p class="text">สำหรับผู้เข้าร่วมงานลุ้นรับรางวัล</p>
         <div class="flex space-x-20 mt-3 items-center justify-center">
           <div class="flex flex-col">
