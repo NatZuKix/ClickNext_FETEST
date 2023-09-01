@@ -2,12 +2,12 @@
 
 <template>
  <div
-      class="h-1/4  w-4/5 flex flex-col justify-end contex bg-cover"
+      class="h-1/4  w-11/12 flex flex-col justify-end contex bg-cover"
     >
-      <div class="text-6xl text-white h-full flex flex-col ml-16 mt-12">
+      <div class="text-5xl text-white h-full flex flex-col ml-16 mt-12">
         <h1 class="font-noto font-bold">INNOVATION</h1>
         <h1 class="font-noto font-bold">&nbsp;&&nbsp;SECURITY</h1>
-        <h2 class="font-xl text-[#14DB60]">for</h2>
+        <h2 class="text-base text-[#14DB60]">for</h2>
         <div
           class="bg-gradient-to-r from-[#14DB60] to-[#9db1a5] text-transparent bg-clip-text"
         >
@@ -69,13 +69,13 @@
 }
 
 .customfonthead{
-    font-size: 23px;
+    font-size: 18px;
   font-family: 'Noto Sans Thai', sans-serif;
   font-weight: 700;
 }
 
 .customfontbody{
-    font-size: 13px;
+    font-size: 12px;
   font-family: 'Noto Sans Thai', sans-serif;
   font-weight: 400;
  color:  #BAD0F2;
