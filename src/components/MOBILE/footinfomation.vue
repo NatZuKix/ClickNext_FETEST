@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="h-44  w-4/5 flex flex-col justify-start contex bg-gradient-to-b from-[#0E044B] to-[#2C309B]  items-center">
+    <div class="h-56  w-11/12 flex flex-col justify-start contex bg-gradient-to-b from-[#0E044B] to-[#2C309B]  items-center">
       <h1 class="text-white head mt-9 text-center">สำรองที่นั่งล่วงหน้า<span class="text-[#BAD0F2] head2">&nbsp;(จำนวนจำกัด*)</span>
         <br><span class="text-[#BAD0F2] head3">หมายเหตุ : สัมมนา Exclusive สำหรับกลุ่มโรงพยาบาล และสาธารณะสุข</span></h1>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf-Px9QA76gCH1byd_sV1aTEsOJkd_bGDPHt8_tqhDKBhGMw/viewform" 
