@@ -84,11 +84,11 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
     <middle_MOBILE />
     <br>
     <speaker_MOBILE/>
-    <!-- <br>
+    <br>
     <Schedule_MOBILE/>
     <br>
     <location_MOBILE/>
-   <br>
+   <!-- <br>
   <reward_MOBILE/>
   <footerweb_MOBILE class="mt-2"/>
   <div class="flex w-4/5 justify-center space-x-10 mt-7">

@@ -3,7 +3,7 @@
 </script>
 
 <template>
- <div class="w-4/5  ">
+ <div class="w-full  ">
    <div class="w-full  bg-[#EEF6FF] rounded-t-2xl">
     <div class="flex">
     <div class="w-2 h-12 mt-4 bg-[#14DB60] ml-7 mr-7 rounded-2xl"></div>
@@ -41,7 +41,7 @@
 </div>
 
 <div class="w-full  bg-[#EEF6FF] rounded-b-2xl flex py-6 mt-1  ">
-  <div class="text-2xl bg-[#0CC553] w-fit rounded-3xl text-white  ml-5 time p-2 px-9 ">17:05 - 19:00 น. </div>
+  <div class=" bg-[#0CC553] w-fit rounded-3xl text-white  ml-5 time p-2 px-3 ">17:05 - 19:00 น. </div>
   <p class="texteat  ml-24 mt-2  text-[#262E3F]">ร่วมรับประทานอาหาร (International Dinner Buffet)</p>
 </div> 
     </div>
@@ -51,24 +51,24 @@
 <style scoped>
 .SCH{
   font-family: 'Poppins', sans-serif;
-font-size: 36px;
+font-size: 28px;
 font-weight: 600;
 
 }
 .time{
   font-family: 'Noto Sans Thai', sans-serif;
-font-size: 24px;
+font-size: 15px;
 font-weight: 700;
 }
 .text{
   font-family: 'Noto Sans Thai', sans-serif;
-font-size: 23px;
+font-size: 17px;
 font-weight: 400;
 }
 
 .texteat{
   font-family: 'Noto Sans Thai', sans-serif;
-font-size: 23px;
+font-size: 17px;
 font-weight: 500;
 }
 </style>
