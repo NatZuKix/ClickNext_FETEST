@@ -1,4 +1,5 @@
 <script setup>
+//base 
 import info from "./components/info.vue";
 import infofooter from "./components/footinfomation.vue";
 import middle from "./components/middle.vue";
@@ -7,7 +8,7 @@ import Schedule from "./components/schedule.vue";
 import location from "./components/location.vue";
 import reward from "./components/reward.vue";
 import footerweb from "./components/footerweb.vue";
-
+//mobile
 import info_MOBILE from "./components/MOBILE/info.vue";
 import infofooter_MOBILE from "./components/MOBILE/footinfomation.vue";
 import middle_MOBILE from "./components/MOBILE/middle.vue";
@@ -16,7 +17,7 @@ import Schedule_MOBILE from "./components/MOBILE/schedule.vue";
 import location_MOBILE from "./components/MOBILE/location.vue";
 import reward_MOBILE from "./components/MOBILE/reward.vue";
 import footerweb_MOBILE from "./components/MOBILE/footerweb.vue";
-
+//ipad
 import info_IPAD from "./components/IPAD/info.vue";
 import infofooter_IPAD from "./components/IPAD/footinfomation.vue";
 import middle_IPAD  from "./components/IPAD/middle.vue";
@@ -28,6 +29,7 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
 </script>
 
 <template>
+  <!-- base -->
   <div class="min-[1340px]:visible max-[1339px]:hidden">
   <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
     <info />
@@ -51,7 +53,7 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
   </div>
   </div>
 </div>
-
+<!-- ipad -->
 <div class="min-[1338px]:hidden max-[945px]:hidden">
    <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
     <info_IPAD />
@@ -75,7 +77,7 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
   </div>
   </div>
 </div>
-
+<!-- mobile -->
 <div class="min-[945px]:hidden">
   <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
     <info_MOBILE />
