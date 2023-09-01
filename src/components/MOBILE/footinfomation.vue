@@ -14,19 +14,19 @@
 
 <style scoped>
 .head{
-  font-size: 26px;
+  font-size: 20px;
   font-family:'Noto Sans Thai', sans-serif;
   font-weight: 700;
 }
 
 .head2{
-  font-size: 24px;
+  font-size: 18px;
   font-family:'Noto Sans Thai', sans-serif;
   font-weight: 400;
 }
 
 .head3{
-  font-size: 20px;
+  font-size: 16px;
   font-family:'Noto Sans Thai', sans-serif;
   font-weight: 400;
 }

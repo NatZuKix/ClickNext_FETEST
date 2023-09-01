@@ -78,7 +78,6 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
 
 <div class="min-[945px]:hidden">
   <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
-    <p>ddd</p>
     <info_MOBILE />
     <infofooter_MOBILE />
     <!-- <br />
