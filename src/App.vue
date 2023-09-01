@@ -8,6 +8,15 @@ import location from "./components/location.vue";
 import reward from "./components/reward.vue";
 import footerweb from "./components/footerweb.vue";
 
+import info_MOBILE from "./components/MOBILE/info.vue";
+import infofooter_MOBILE from "./components/MOBILE/footinfomation.vue";
+import middle_MOBILE from "./components/MOBILE/middle.vue";
+import speaker_MOBILE from "./components/MOBILE/speaker.vue";
+import Schedule_MOBILE from "./components/MOBILE/schedule.vue";
+import location_MOBILE from "./components/MOBILE/location.vue";
+import reward_MOBILE from "./components/MOBILE/reward.vue";
+import footerweb_MOBILE from "./components/MOBILE/footerweb.vue";
+
 import info_IPAD from "./components/IPAD/info.vue";
 import infofooter_IPAD from "./components/IPAD/footinfomation.vue";
 import middle_IPAD  from "./components/IPAD/middle.vue";
@@ -43,7 +52,7 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
   </div>
 </div>
 
-<div class="min-[1338px]:hidden max-[768px]:hidden">
+<div class="min-[1338px]:hidden max-[945px]:hidden">
    <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
     <info_IPAD />
     <infofooter_IPAD />
@@ -67,8 +76,29 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
   </div>
 </div>
 
-<div class="min-[768px]:hidden">
-  <div class="text-9xl">FOR mobile</div>
+<div class="min-[945px]:hidden">
+  <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
+    <p>ddd</p>
+    <info_MOBILE />
+    <infofooter_MOBILE />
+    <br />
+    <middle_MOBILE />
+    <br>
+    <speaker_MOBILE/>
+    <br>
+    <Schedule_MOBILE/>
+    <br>
+    <location_MOBILE/>
+   <br>
+  <reward_MOBILE/>
+  <footerweb_MOBILE class="mt-2"/>
+  <div class="flex w-4/5 justify-center space-x-10 mt-7">
+    <p class="headipad mt-0.5">ติดต่อสอบถามรายละเอียดเพิ่มเติม </p>
+    <img src="./IMG/resorce/phone.png" class="w-fit h-fit -mt-1">
+    <p class="head2ipad text-[#3138A0]">คุณนันทพร ทองเพชร</p>
+    <p class="head2ipad text-[#3138A0] mt-0.5">084-118-4868</p>
+  </div>
+  </div>
 </div>
 </template>
 

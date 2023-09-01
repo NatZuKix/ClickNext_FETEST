@@ -10,7 +10,7 @@
         <div class="flex flex-col">
           <p class="locationL1">ณ ห้องแกรนด์บอลรูม ชั้น 4</p>
           <p class="locationL2">โรงแรมพูลแมน กรุงเทพแกรนด์ สุขุมวิท</p>
-          <button class="w-5/6 h-12 bg-[#359EFF] rounded-full mt-3 text-xl font-noto text-white hover:bg-slate-600" >ดูแผนที่ google map</button>
+          <button class="w-5/6 h-12 bg-[#359EFF] rounded-full mt-3 text-2xl font-noto text-white hover:bg-slate-600" >ดูแผนที่ google map</button>
         </div>
         <img src="../../IMG/resorce/room.png" class="w-2/12 h-fit ml-44   "/>
       </div>
