@@ -44,7 +44,7 @@
           พร้อมการปกป้องข้อมูลส่วนบุคคล (PDPA) </p><p>
           และรับมือกับภัยคุกคามทางไซเบอร์ เพื่อความปลอดภัยขั้นสูงสุด</p>
         </div>
-        <div class="flex w-full  mt-10 pb-12 ">
+        <div class="flex w-full  mt-10 pb-12  ">
         <img src="../IMG/resorce/logo/logo_clicknextf.png" class="w-fit h-fit mr-14"/>
         <img src="../IMG/resorce/logo/logo_kindee.png" class=" w-fit h-fit mr-14"/>
         <img src="../IMG/resorce/logo/logo_sangfor.png" class=" w-fit h-fit mr-14"/>
