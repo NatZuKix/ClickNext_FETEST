@@ -2,7 +2,7 @@
 
 <template>
  <div
-      class="h-1/4  w-11/12 flex flex-col items-center contex bg-cover"
+      class="h-1/4  w-full flex flex-col items-center contex bg-cover"
     >
       <div class="text-5xl text-white h-full flex flex-col ml-16 mt-12">
         <h1 class="font-noto font-bold">INNOVATION</h1>
