@@ -76,12 +76,12 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
   </div>
 </div>
 
-<div class="min-[945px]:hidden max-[648px]:hidden">
-  <div class="content w-screen bg-white flex flex-col   ">
+<div class="min-[945px]:hidden">
+  <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
     <p>ddd</p>
     <info_MOBILE />
     <infofooter_MOBILE />
-    <br />
+    <!-- <br />
     <middle_MOBILE />
     <br>
     <speaker_MOBILE/>
@@ -97,7 +97,7 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
     <img src="./IMG/resorce/phone.png" class="w-fit h-fit -mt-1">
     <p class="head2ipad text-[#3138A0]">คุณนันทพร ทองเพชร</p>
     <p class="head2ipad text-[#3138A0] mt-0.5">084-118-4868</p>
-  </div>
+  </div> -->
   </div>
 </div>
 </template>
