@@ -26,7 +26,7 @@
           </div>
           <div class="w-2 mt-4 bg-[#14DB60]  ml-7"></div>
           <div class="ml-7">
-            <span class="text-2xl font-noto font-bold text-[#14DB60]"
+            <span class="text-xl font-noto font-bold text-[#14DB60]"
               >At Grand Ballroom 4th Floor</span
             >
             <p class="text-lg">Pullman Bangkok Grande Sukhumvit</p>
