@@ -10,7 +10,7 @@
           <div class="bg-gradient-to-r from-[#0E044B] via-[#2C309B] to-[#89E8FD] text-transparent bg-clip-text">          <p class="custom mt-4 ">Main Speaker</p></div>
 
         </div>
-        <div class="flex flex-col items-center w-full mt-4 justify-center">
+        <div class="flex flex-col items-center w-full mt-4 justify-center space-y-6">
           <div class="flex flex-col text-center justify-start  w-2/6  items-center">
           <img src="../../IMG/resorce/speaker/sp1.png" class="w-fit h-fit" />
           <h2 class="speakname">รศ. วิรุฬห์ ศรีบริรักษ์</h2>
@@ -74,7 +74,7 @@
 }
 
 .speakname {
- font-size: 24px;
+ font-size: 20px;
  font-weight: 600;
  font-family:'Noto Sans Thai', sans-serif;
  color: #1F2883;
@@ -82,14 +82,14 @@
 .speakposition{
   font-family:'Noto Sans Thai', sans-serif;
   color:  #359EFF;
-font-size: 18px;
+font-size: 16px;
 font-weight: 500;
 
 }
 .speakorg{
   font-family:'Noto Sans Thai', sans-serif;
   color:  black;
-font-size: 17px;
+font-size: 14px;
 font-weight: 400;
 
 }
