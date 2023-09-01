@@ -80,11 +80,11 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
   <div class="content w-screen bg-white flex flex-col justify-start items-center  ">
     <info_MOBILE />
     <infofooter_MOBILE />
-    <!-- <br />
+    <br />
     <middle_MOBILE />
     <br>
     <speaker_MOBILE/>
-    <br>
+    <!-- <br>
     <Schedule_MOBILE/>
     <br>
     <location_MOBILE/>
