@@ -2,7 +2,7 @@
 
 <template>
  <div
-      class="h-1/4  w-11/12 flex flex-col justify-end contex bg-cover"
+      class="h-1/4  w-11/12 flex flex-col items-center contex bg-cover"
     >
       <div class="text-5xl text-white h-full flex flex-col ml-16 mt-12">
         <h1 class="font-noto font-bold">INNOVATION</h1>
@@ -15,11 +15,11 @@
         </div>
         <div class="font-noto flex mt-8">
           <div class="flex flex-col">
-            <div class="text-4xl mb-3">
-              <span class="text-4xl mr-4">24</span>Mars 2023
+            <div class="text-2xl mb-3">
+              <span class="text-2xl mr-4">24</span>Mars 2023
             </div>
             <div
-              class="text-xl bg-white w-fit rounded-3xl text-[#0e106b] px-3"
+              class="text-sm bg-white w-fit rounded-3xl text-[#0e106b] px-3"
             >
               เวลา 13:00 ถึง 19:00 น.
             </div>
