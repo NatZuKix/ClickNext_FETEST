@@ -3,7 +3,7 @@
 </script>
 
 <template>
-   <div class="w-full rounded-2xl bg-gradient-to-b from-[#5D97E3] to-[#0C2192] p-18">
+   <div class="w-full rounded-2xl bg-gradient-to-b from-[#5D97E3] to-[#0C2192] ">
       <div class="flex  items-center text-white py-8 "> 
 
         <img src="../../IMG/resorce/locaicon.png" class="w-12 h-auto mr-5 -mt-16 ml-20">

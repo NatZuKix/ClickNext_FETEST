@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <div class="h-44  w-full flex flex-col justify-start contex bg-gradient-to-b from-[#FFFFFF] via-[#FFFFFF] to-[#0072F9]  items-center">
+    <div class="h-60  w-full flex flex-col justify-start contex bg-gradient-to-b from-[#FFFFFF] via-[#FFFFFF] to-[#0072F9]  items-center">
         <div class="w-full h-full bg-white bg-opacity-90">
       <h1 class="text-[#0C2292] text-3xl font-noto mt-9 text-center head">สำรองที่นั่งล่วงหน้า<span class="text-[#6E7788] head2">&nbsp;(จำนวนจำกัด*)</span>
         <br><span class="text-[#262E3F] head3">หมายเหตุ : สัมมนา Exclusive สำหรับกลุ่มโรงพยาบาล และสาธารณะสุข</span></h1>
