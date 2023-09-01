@@ -41,7 +41,7 @@
 </div>
 
 <div class="w-full  bg-[#EEF6FF] rounded-b-2xl flex py-6 mt-1  ">
-  <div class=" bg-[#0CC553] w-fit rounded-3xl text-white  ml-5 time p-2 px-3 ">17:05 - 19:00 น. </div>
+  <div class=" bg-[#0CC553] w-fit rounded-3xl text-white  ml-5 time p-2  ">17:05 - 19:00 น. </div>
   <p class="texteat  ml-24 mt-2  text-[#262E3F]">ร่วมรับประทานอาหาร (International Dinner Buffet)</p>
 </div> 
     </div>

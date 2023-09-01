@@ -88,15 +88,15 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
     <Schedule_MOBILE/>
     <br>
     <location_MOBILE/>
-   <!-- <br>
+   <br>
   <reward_MOBILE/>
   <footerweb_MOBILE class="mt-2"/>
   <div class="flex w-4/5 justify-center space-x-10 mt-7">
-    <p class="headipad mt-0.5">ติดต่อสอบถามรายละเอียดเพิ่มเติม </p>
+    <p class="headmobile mt-0.5">ติดต่อสอบถามรายละเอียดเพิ่มเติม </p>
     <img src="./IMG/resorce/phone.png" class="w-fit h-fit -mt-1">
-    <p class="head2ipad text-[#3138A0]">คุณนันทพร ทองเพชร</p>
-    <p class="head2ipad text-[#3138A0] mt-0.5">084-118-4868</p>
-  </div> -->
+    <p class="head2mobile text-[#3138A0]">คุณนันทพร ทองเพชร</p>
+    <p class="head2mobile text-[#3138A0] mt-0.5">084-118-4868</p>
+  </div>
   </div>
 </div>
 </template>
@@ -120,6 +120,17 @@ import footerweb_IPAD  from "./components/IPAD/footerweb.vue";
 }
 .head2ipad{
   font-size: 20px;
+  font-family:'Noto Sans Thai', sans-serif;
+  font-weight: 600;
+}
+
+.headmobile{
+  font-size: 12px;
+  font-family:'Noto Sans Thai', sans-serif;
+  font-weight: 500;
+}
+.head2mobile{
+  font-size: 12px;
   font-family:'Noto Sans Thai', sans-serif;
   font-weight: 600;
 }

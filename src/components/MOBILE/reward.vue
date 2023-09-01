@@ -3,7 +3,7 @@
 </script>
 
 <template>
-     <div class="bg-gradient-to-b from-[#FFFFFF] via-[#e6d9d9] to-[#34EA67] w-4/5 h-72 p-1 rounded-2xl">
+     <div class="bg-gradient-to-b from-[#FFFFFF] via-[#e6d9d9] to-[#34EA67] w-full h-72 p-1 rounded-2xl">
      <div class="bg-white  w-full h-full rounded-2xl">
       <div class=" h-full flex flex-col justify-center   ">
         <div class="ml-12 bg-gradient-to-r from-[#0E044B] to-[#89E8FD] text-transparent bg-clip-text mt-8">
